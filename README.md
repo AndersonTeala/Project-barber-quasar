@@ -1,2 +1,2 @@
 # Project-barber-quasar
-A pokedex project developed with quasar framework
+A barber project developed with quasar framework
